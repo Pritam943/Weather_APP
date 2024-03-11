@@ -9,9 +9,9 @@ h1{
 body{
     background: whitesmoke;
     padding: 1rem 5rem;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-transform: capitalize;
-    background: linear-gradient(45deg,rgba(183, 204, 248, 0.717),rgba(7, 43, 127, 0.679)), url('./images/img1.jpg');
+    background: linear-gradient(45deg,rgba(74, 76, 80, 0.717),rgba(19, 40, 88, 0.679)), url('./images/img1.jpg');
     
     background-repeat: no-repeat;
     background-position: center;
@@ -23,9 +23,9 @@ body{
     align-items: center;
 }
 .header h1{
-    color: rgb(230, 85, 24);
-    text-decoration: underline;
-    font-family: 'Orbitron', sans-serif;
+    color: rgb(230, 41, 24);
+    text-decoration: none;
+    font-family: monospace;
 }
 #input{
     font-size: 18px;
