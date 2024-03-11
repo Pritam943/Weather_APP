@@ -1,4 +1,4 @@
-const apikey="######################";
+const apikey="6b20be6da07288ee7ccaf187478225d3";
 window.addEventListener("load",()=>{
     // console.log("Hello Loader");
     if(navigator.geolocation){
